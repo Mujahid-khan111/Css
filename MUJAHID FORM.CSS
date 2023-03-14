@@ -1,0 +1,40 @@
+<doctype html>
+     <html>
+    <head>
+     <style type="text/css">
+     
+     body{
+           background-color: aqua;
+           color:red;
+           border: solid green 10px;
+           margin-left: 30px;
+           margin-right: 30px;
+           
+           padding-left: 40px;
+           padding-top: 50px; 
+           padding-bottom:120px;
+           padding-right:30px ;
+         }
+input{
+    background-color: blue;
+    color:white;
+}
+textarea{
+     background-color: palevioletred;
+     color: aqua;
+}
+ h1{
+      color :blue;
+      text-align: center;
+      border: dotted rebeccapurple 05px;
+      margin-left: 20px;
+      margin-right: 20px;
+      margin-top: 30px;
+      margin-bottom: 40px;
+ } 
+  
+</style>
+     </head>
+    </body>
+    
+</html>    

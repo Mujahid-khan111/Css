@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+     <html>
+<head>
+     <style>
+          tr{
+               background-color: aqua;
+
+          }
+          h1{
+               background-color: saddlebrown;
+          }
+     </style>
+</head>

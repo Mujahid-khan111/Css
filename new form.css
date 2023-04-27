@@ -1,0 +1,48 @@
+<html>
+      <head>
+                    
+             
+        
+        <style> 
+        h5{
+            border-style: inset; 
+            border-width:30px;
+            border-color:red;
+            
+  
+           }
+          body{ 
+               background-color: lightpink;
+               padding-top: 50px;
+               padding-left: 20px;
+               padding-right: 20px;
+               padding-bottom: 50;
+              }
+  
+            
+          
+            input{
+                  border-radius: 40px;
+            }
+          
+                
+              
+          form{
+              border: 50px;
+          } 
+          input{
+              background-color:aquamarine;
+              color: solid black;
+              padding: 0.5px;
+              margin: 
+          }
+          h1{
+            text-align: center;
+            border-top: 20px;
+            border-left: 40px;
+            border-right:40px;
+            border: solid red;
+            border-radius: 10px;
+          }
+      </style>
+      </head>
